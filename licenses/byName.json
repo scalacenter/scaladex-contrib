@@ -1,0 +1,216 @@
+{
+  "AFL-3.0": [
+    "Academic License (for original lex files)"
+  ],
+  "Apache-2.0": [
+    "Apache-2.0",
+    "Apache 2",
+    "Apache License, Version 2.0",
+    "Apache 2.0",
+    "The Apache Software License, Version 2.0",
+    "Apache V2",
+    "Apache2",
+    "Apache 2.0 License",
+    "Apache License 2.0",
+    "the Apache License, ASL Version 2.0",
+    "Apache License",
+    "The Apache License, Version 2.0",
+    "Apache",
+    "Apache-style",
+    "Apache License, ASL Version 2.0",
+    "Apache v2",
+    "Apache License Version 2.0",
+    "Apache license",
+    "Apache License, Verison 2.0",
+    "Apache 2.0 (for supplemental code)",
+    "APACHE-2.0",
+    "The Apache Software Licence, Version 2.0",
+    "Apache 2 License",
+    "The Apache License, ASL Version 2.0",
+    "Apache License, Verision 2.0",
+    "Apache Public License 2.0",
+    "Apache License v2",
+    "Apache Software License Version 2.0",
+    "Apache 2 license",
+    "Apache License, Version 2",
+    "Apache Software License 2.0",
+    "ASL",
+    "ASF License"
+  ],
+  "APSL-2.0": [
+    "APSL-2.0"    
+  ],
+  "Beerware": [
+    "Beerware"
+  ],
+  "CC0-1.0": [
+    "CC0"
+  ],
+  "CC-BY-NC-SA-2.0": [],
+  "CC-BY-NC-SA-2.5": [],
+  "CC-BY-NC-SA-3.0": [],
+  "CC-BY-NC-SA-4.0": [],
+  "CC-BY-SA-2.5": [],
+  "CC-BY-3.0": [],
+  "CC-BY-SA-3.0": [],
+  "CC-BY-4.0": [
+    "CC BY 4.0."
+  ],
+  "CC-BY-SA-4.0": [
+    "Creative Commons Attribution-ShareAlike 4.0 International"
+  ],
+  "MIT": [
+    "MIT",
+    "MIT License",
+    "MIT-style",
+    "MIT license",
+    "The MIT License",
+    "The MIT License (MIT)",
+    "MIT licencse",
+    "mit",
+    "MIT Licence",
+    "$MIT",
+    "MIT-style license",
+    "AThe MIT License (MIT)"
+  ],
+  "Public Domain": [
+    "Public domain",
+    "Public Domain"
+  ],
+  "AGPL-3.0": [
+    "Affero GPLv3",
+    "AGPL licencse",
+    "AGPL-3.0",
+    "AGPL",
+    "AGPL v3",
+    "AGPLv3"
+  ],
+  "BSD-2-Clause": [
+    "BSD Simplified",
+    "Simplified BSD License",
+    "The BSD 2-Clause License",
+    "BSD-2-Clause",
+    "BSD Software License, 2-clause version",
+    "Two-clause BSD-style license",
+    "BSD 2 clause",
+    "BSD 2 Clause",
+    "BSD-2"
+  ],
+  "BSD-3-Clause": [
+    "BSD New",
+    "New BSD",
+    "New BSD License",
+    "The New BSD License",
+    "Three-clause BSD-style",
+    "BSD 3-Clause",
+    "BSD-3-Clause",
+    "BSD 3-clause",
+    "The BSD 3-Clause License",
+    "BSD 3-Clause License",
+    "3-clause BSD",
+    "BSD3"
+  ],
+  "BSD-4-Clause": [
+    "BSD-style",
+    "BSD",
+    "BSD-like",
+    "BSD-Style",
+    "modified BSD License"
+  ],
+  "EPL-1.0": [
+    "Eclipse Public License, Version 1.0",
+    "Eclipse Public License v1.0",
+    "Eclipse Public License - v 1.0",
+    "EPL"
+  ],
+  "MPL-2.0": [
+    "MPL-2.0",
+    "MPL 2.0",
+    "Mozilla Public License Version 2.0",
+    "Mozilla Public License, version 2.0",
+    "Mozilla Public License"
+  ],
+  "LGPL-2.0": [],
+  "LGPL-2.0+": [],
+  "LGPL-2.1": [
+    "LGPL-2.1",
+    "LGPLv2.1",
+    "LGPL 2.1",
+    "GNU Lesser General Public License, Version 2.1"
+  ],
+  "LGPL-2.1+": [
+    "LGPL v2.1+"
+  ],
+  "LGPL-3.0": [
+    "LGPL 3.0 license",
+    "LGPLv3",
+    "LGPL 3.0",
+    "LGPL3",
+    "LGPL-3.0",
+    "LGPL v3",
+    "LGPL",
+    "GNU Library or Lesser General Public License (LGPL)",
+    "GNU LGPL",
+    "lgpl",
+    "GNU Lesser General Public License",
+    "GNU Lesser General Public License v3.0",
+    "GNU Lesser General Public Licence",
+    "GNU LESSER GENERAL PUBLIC LICENSE, Version 3"
+  ],
+  "LGPL-3.0+": [
+    "LGPL v3+"
+  ],
+  "GPL-1.0": [],
+  "GPL-1.0+": [],
+  "GPL-2.0": [
+    "GPL-2.0",
+    "Dual-licensed under the GNU General Public License, version 2.0 (GPLv2) and the Geeoz Commercial License.",
+    "GNU General Public License, version 2 (GPL-2.0)",
+    "GNU General Public License v2",
+    "GNU General Public License, version 2"
+  ],
+  "GPL-2.0+": [
+    "GPL v2+"
+  ],
+  "GPL-3.0": [
+    "GPLv3",
+    "GPL-3.0",
+    "GNU GPL",
+    "GNU GPL v3",
+    "GPL v3",
+    "GNU General Public License (GPL)",
+    "GNU Gpl v3",
+    "GPL",
+    "GNU GENERAL PUBLIC LICENSE",
+    "GNU General Public License, Version 3",
+    "GNU GENERAL PUBLIC LICENSE, Version 3.0",
+  ],
+  "GPL-3.0+": [
+    "GPL v3+",
+    "GPL version 3 or any later version",
+    "GNU General Public License v3+"
+  ],
+  "ICL": [
+    "ISC License",
+    "ISC"
+  ],
+  "Scala License": [
+    "Scala License",
+    "Scala license"
+  ]
+  "Typesafe Subscription Agreement": [
+    "Typesafe Subscription Agreement"
+  ]
+  "Unlicense": [
+    "The Unlicense",
+    "unlicense",
+    "Unlicense"
+  ],
+  "W3C": [
+    "W3C"
+  ],
+  "WTFPL": [
+    "WTFPL",
+    "WTFPL, Version 2"
+  ]
+}
