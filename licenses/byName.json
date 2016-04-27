@@ -108,14 +108,15 @@
     "The BSD 3-Clause License",
     "BSD 3-Clause License",
     "3-clause BSD",
-    "BSD3"
-  ],
-  "BSD-4-Clause": [
+    "BSD3",
     "BSD-style",
     "BSD",
     "BSD-like",
     "BSD-Style",
     "modified BSD License"
+  ],
+  "BSD-4-Clause": [
+    
   ],
   "EPL-1.0": [
     "Eclipse Public License, Version 1.0",
