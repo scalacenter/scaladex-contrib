@@ -294,6 +294,7 @@
   "com.geeoz.pawl pawl-scalatest_2.11 0.1.0": null,
   "com.geeoz.pawl pawl_2.11 0.1.0": null,
   "com.gilt gfc-semver_2.11 *": "gilt/gfc-semver",
+  "com.github.scyks playacl_2.11 *": "scyks/play-acl",
   "com.github.Shinsuke-Abe calil4s_2.11 0.0.2": "Shinsuke-Abe/calil4s",
   "com.github.Shinsuke-Abe dropbox4s_2.11 0.2.0": "Shinsuke-Abe/dropbox4s",
   "com.github.agourlay json-2-csv-stream_2.11 *": "agourlay/json-2-csv-stream",
