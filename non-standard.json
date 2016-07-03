@@ -1,3 +1,16 @@
 {
   "org.scala-lang scala-library *": []
 }
+{"io.gatling gatling-core 2.2.*": ["2.11"]}
+{"io.gatling gatling-http 2.2.*": ["2.11"]}
+{"io.gatling gatling-commons 2.2.*": ["2.11"]}
+{"io.gatling gatling-app 2.2.*": ["2.11"]}
+{"io.gatling gatling-charts 2.2.*": ["2.11"]}
+{"io.gatling gatling-jms 2.2.*": ["2.11"]}
+{"io.gatling gatling-redis 2.2.*": ["2.11"]}
+{"io.gatling gatling-recorder 2.2.*": ["2.11"]}
+{"io.gatling gatling-jdbc 2.2.*": ["2.11"]}
+{"io.gatling gatling-metrics 2.2.*": ["2.11"]}
+{"io.gatling gatling-compiler 2.2.*": ["2.10"]}
+{"io.gatling gatling-test-framework 2.2.*": ["2.11"]}
+{"io.gatling.highcharts gatling-charts-highcharts 2.2.*": ["2.11"]}
