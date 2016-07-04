@@ -1451,6 +1451,7 @@
   "org.scardiecat styx-akka-seed-node_*": "Scardiecat/styx-akka-seed-node",
   "org.scardiecat styx-microservice_*": "Scardiecat/styx-microservice",
   "org.scardiecat styx-utils_*": "Scardiecat/styx-utils",
+  "org.scodec scodec-core_*": "scodec/scodec",
   "org.sedis sedis_2.10": null,
   "org.shade time8_*": "jamesshade/time8",
   "org.shade time_*": "jamesshade/time",
