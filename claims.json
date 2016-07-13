@@ -227,6 +227,7 @@
   "com.github.agourlay json-2-csv-stream_*": "agourlay/json-2-csv-stream",
   "com.github.agourlay lazy-tail_*": "agourlay/lazy-tail",
   "com.github.ahjohannessen akka-etcd_2.10": null,
+  "com.github.akileev akka-serial-io_*": "akileev/akka-serial-io",
   "com.github.alixba vast_*": "AlixBa/vast",
   "com.github.andyglow scalax-xml-diff_*": "andyglow/scala-xml-diff",
   "com.github.bseibel akka-persistence-bdb*": "bseibel/akka-persistence-bdb",
