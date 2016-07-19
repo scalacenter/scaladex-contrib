@@ -1245,6 +1245,7 @@
   "net.crispywalrus.metarest metarest_2.11": null,
   "net.elehack.argparse4s argparse4s_2.10": null,
   "net.entelijan doctus*": "wwagner4/doctus1",
+  "net.jsmscs longevity_*": "longevityframework/longevity",
   "net.kaliber play-s3_2.11": null,
   "net.maffoo jsonquote*": "maffoo/jsonquote",
   "net.paulgray.testing test_2.10": null,
