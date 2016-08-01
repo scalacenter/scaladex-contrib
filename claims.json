@@ -751,7 +751,7 @@
   "com.typesafe.phoenix cinnamon-signalfx_2.11": null,
   "com.typesafe.phoenix cinnamon-slf4j_2.11": null,
   "com.typesafe.phoenix cinnamon-takipi_2.11": null,
-  "com.typesafe.play *": "playframework/playframework",
+  "com.typesafe.play anorm*": "playframework/anorm",
   "com.typesafe.play console*": null,
   "com.typesafe.play filters-helpers*": "playframework/playframework",
   "com.typesafe.play fork-run*": "playframework/playframework",
