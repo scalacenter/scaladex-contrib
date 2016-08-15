@@ -1246,6 +1246,7 @@
   "japgolly.scalajs.react scalajs-react*": "japgolly/scalajs-react",
   "jenkins-control jenkins-control_2.10": null,
   "jenkins-control jenkins-control_2.11": null,
+  "joandre MCL_spark": null,
   "jp.aratana akka-persistence-dynamodb-plugin_*": "aratana/akka-persistence-dynamodb-plugin",
   "jp.t2v stackable-controller*": "t2v/stackable-controller",
   "jsdynamic-typify jsdynamic-typify_sjs0.6_2.11": null,
