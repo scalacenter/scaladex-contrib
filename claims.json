@@ -139,6 +139,7 @@
   "com.atlassian.crowd.client crowd-scala-rest-client_2.10": null,
   "com.atlassian.crowd.client crowd-scala-rest-client_2.11": null,
   "com.atlassian.gatling gatling-jwt_2.10": null,
+  "com.autoscout24 backup-requests_2.11": null,
   "com.autoscout24 featurebee*": "AutoScout24/featurebee-scala",
   "com.azavea scala-landsat-util_*": "azavea/scala-landsat-util",
   "com.azavea scaliper_2.10": null,
