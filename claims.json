@@ -1,6 +1,7 @@
 {
   "1.7.4.1 scalikejdbc-play-fixture-plugin_2.10": null,
   "Azavea leaflet-sjs_sjs0.6_2.11": null,
+  "BIDMat BIDMat_2.11": null,
   "EPFL lms_2.10": null,
   "FRosner drunken-data-quality": "FRosner/drunken-data-quality",
   "Lewuathe dllib": "Lewuathe/dllib",
@@ -407,6 +408,7 @@
   "com.gu scala-slack-webhook_2.11": null,
   "com.gu story-packages-presentation_*": "guardian/story-packages-presentation",
   "com.gu tags-thrift-schema_*": "guardian/tags-thrift-schema",
+  "com.gu targeting-client-play24_2.11": null,
   "com.gu targeting-client_2.11": null,
   "com.gu targeting-thrift-schema_2.11": null,
   "com.gu tools-web-driver-utils_2.11": null,
@@ -971,6 +973,7 @@
   "de.zalando beard*": "zalando/beard",
   "de.zalando.spearheads beard*": "zalando/beard",
   "debox debox_2.10": null,
+  "default akka-eventsourcing-framework_2.11": null,
   "default akka-http-metrics_2.11": null,
   "default bigsense_2.10": null,
   "default bitcoin-scodec_2.11": null,
