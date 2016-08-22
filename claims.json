@@ -1768,6 +1768,7 @@
   "uk.gov.hmrc hmrctest_*": "hmrc/hmrctest",
   "uk.gov.hmrc http-exceptions_*": "hmrc/http-exceptions",
   "uk.gov.hmrc mongo-caching_*": "hmrc/mongo-caching",
+  "uk.gov.hmrc play-filters-java_2.11": null,
   "uk.gov.hmrc play-health_*": "hmrc/play-health",
   "uk.gov.hmrc play-reactivemongo_*": "hmrc/Play-ReactiveMongo",
   "uk.gov.hmrc reactivemongo-bson-macros_*": "hmrc/ReactiveMongo",
