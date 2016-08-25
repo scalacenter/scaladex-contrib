@@ -472,6 +472,7 @@
   "com.lightbend.cinnamon cinnamon-lagom_2.11": null,
   "com.lightbend.cinnamon cinnamon-slf4j-mdc_2.11": null,
   "com.lightbend.cinnamon cinnamon-takipi_2.11": null,
+  "com.lihaoyi autowire*": "lihaoyi/autowire",
   "com.localytics kinesis-stream_2.10": null,
   "com.localytics kinesis-stream_2.11": null,
   "com.locusenergy solar-calculations_2.10": null,
