@@ -1142,6 +1142,7 @@
   "io.atlassian.aws-scala aws-scala-swf_2.11": null,
   "io.atlassian.aws-scala aws-scala_2.10": null,
   "io.atlassian.aws-scala aws-scala_2.11": null,
+  "io.bluecabin common-macros_2.11": null,
   "io.btrdb btrdb_2.10": null,
   "io.buddho flyway-config_*": "buddho-io/flyway-config",
   "io.buddho.akka akka-http-twirl_*": "buddho-io/akka-http-twirl",
