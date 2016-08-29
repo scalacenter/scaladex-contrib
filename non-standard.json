@@ -13,6 +13,7 @@
   "org.scala-lang scala-xml":                        "version",
   "org.scala-lang scalap":                           "version",
   "amplab spark-indexedrdd":                         "pom",
+  "me.leaf akka-persistence-android":                "pom",
   "io.gatling gatling-app":                          "pom",
   "io.gatling gatling-charts":                       "pom",
   "io.gatling gatling-commons":                      "pom",
