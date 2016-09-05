@@ -1238,6 +1238,7 @@
   "io.grhodes hadoop-aws_2.10": null,
   "io.grhodes hadoop-aws_2.11": null,
   "io.grhodes jetty-http2-apns_2.11": null,
+  "io.ics disciple_2.11": null,
   "io.ipsq 2048-scalajs-facade*": "ipsq/2048-scalajs-facade",
   "io.linkki linkki_2.11": null,
   "io.megam libcommon_*": "megamsys/megam_common",
