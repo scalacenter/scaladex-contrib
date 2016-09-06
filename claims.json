@@ -674,6 +674,7 @@
   "com.softwaremill akka-http-session*": "softwaremill/akka-http-session",
   "com.softwaremill reactive-kafka*": "akka/reactive-kafka",
   "com.sorrentocorp scala-macros_2.11": null,
+  "com.sorrentocorp streaming-json-parser_2.11": null,
   "com.specdevs specgine*": null,
   "com.specdevs specgine-macros_2.10": null,
   "com.specdevs specgine-macros_2.11": null,
