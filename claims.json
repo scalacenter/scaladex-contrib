@@ -463,6 +463,7 @@
   "com.joshcough remote-entities_*": "joshcough/Remote-Entities",
   "com.joshcough scala-minecraft-plugin-api*": "joshcough/MinecraftPlugins",
   "com.joshcough scala-minecraft-scala-library_*": "joshcough/MinecraftPlugins",
+  "com.jspha ureact_sjs0.6_2.11": null,
   "com.jsuereth.snark snark-core_*": "jsuereth/snark",
   "com.kenshoo metrics-play_2.11": null,
   "com.kindleit gkit*": "kindleit/gkit",
