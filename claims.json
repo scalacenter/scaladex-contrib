@@ -557,6 +557,7 @@
   "com.micronautics urlettes_2.11": null,
   "com.microsoft.azure spark-eventhubs_2.10": null,
   "com.microsoft.azure spark-eventhubs_2.11": null,
+  "com.microsoft.azure.iot iothub-react_2.11": null,
   "com.microsoft.azure.toketi toketi-iothub-react_2.11": null,
   "com.migesok akka-persistence-in-memory-snapshot-store*": "migesok/akka-persistence-in-memory-snapshot-store",
   "com.mirkocaserta.swatch swatch_2.10": null,
