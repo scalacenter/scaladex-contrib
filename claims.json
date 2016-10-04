@@ -598,6 +598,7 @@
   "com.originate nice-error-compiler-plugin_2.11": null,
   "com.originate nice-error-transformer_2.11": null,
   "com.originate sbt-nice-error_2.11": null,
+  "com.ostronom scala-ecb-parser_2.11": null,
   "com.outtherelabs play-application-diagnostics_2.11": null,
   "com.owm owm-jmapprojlib_*": "pomadchin/owm-jmapprojlib",
   "com.pagerduty metrics-api_2.10": null,
