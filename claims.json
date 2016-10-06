@@ -1852,6 +1852,7 @@
   "scalafakeit scalafakeit_2.11": null,
   "scalation scalation_*": "scalation/scalation",
   "scalazk scalazk*": "dbuschman7/scalaZK",
+  "schemas schemas_2.11": null,
   "scilube scilube*": "hohonuuli/scilube",
   "scroach scroach_2.10": null,
   "securesocial securesocial_2.10": null,
