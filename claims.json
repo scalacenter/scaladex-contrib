@@ -1337,6 +1337,7 @@
   "io.underscore csvside*": "underscoreio/csvside",
   "io.underscore slick-shapeless_2.11": null,
   "io.underscore slickless*": "underscoreio/slickless",
+  "is.knserv s3mock_2.11": null,
   "it.nerdammer.bigdata spark-hbase-connector_2.10": null,
   "it.unibo.apice.scafiteam scafi-core_2.11": null,
   "it.unibo.apice.scafiteam scafi-demos_2.11": null,
