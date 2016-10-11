@@ -1900,6 +1900,7 @@
   "uk.gov.hmrc address-lookup-demo_*": "hmrc/address-lookup-demo",
   "uk.gov.hmrc address-lookup-ingestor_2.11": null,
   "uk.gov.hmrc address-reputation-ingester_*": "hmrc/address-reputation-ingester",
+  "uk.gov.hmrc campaign-manager_2.11": null,
   "uk.gov.hmrc fset-faststream_2.11": null,
   "uk.gov.hmrc govuk-template_2.11": null,
   "uk.gov.hmrc hmrctest_*": "hmrc/hmrctest",
