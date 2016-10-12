@@ -1527,6 +1527,7 @@
   "org.apache.logging.log4j log4j-api-scala_2.11": null,
   "org.apache.parquet parquet-scala_2.11": null,
   "org.apache.parquet parquet-scrooge_2.11": null,
+  "org.apache.predictionio apache-predictionio-parent_2.10": null,
   "org.apache.samza *": "apache/samza",
   "org.apache.servicemix.bundles *": "apache/servicemix-bundles",
   "org.apache.spark *": "apache/spark",
