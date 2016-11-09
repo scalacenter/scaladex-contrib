@@ -1638,6 +1638,7 @@
   "org.jsawn play-support*": "non/jawn",
   "org.jsawn rojoma-support*": "non/jawn",
   "org.jsawn spray-support*": "non/jawn",
+  "org.julienrf faithful*": "julienrf/faithful",
   "org.konstructs konstructs-server_2.10": null,
   "org.labrad scalabrad_*": "labrad/scalabrad",
   "org.lembrd ocopy-lib_2.11": null,
