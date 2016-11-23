@@ -1694,6 +1694,7 @@
   "org.ddecap rna-wxs-comparison_2.10": null,
   "org.decaf science*": "adamdecaf/science",
   "org.deeplearning4j lagom-service-locator-zookeeper_2.11": null,
+  "org.denigma akka-http-extensions_*": "antonkulaga/akka-http-extensions",
   "org.denigma binding_sjs0.6_*": "antonkulaga/scala-js-binding",
   "org.denigma js-macro_sjs0.6_2.11": null,
   "org.denigma schemas_*": "antonkulaga/semweb",
