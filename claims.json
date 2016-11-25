@@ -1767,6 +1767,7 @@
   "org.coursera autoschema_2.11": null,
   "org.cvogt play-json-extensions_*": "xdotai/play-json-extensions",
   "org.ddahl jvmr_*": "cran/jvmr",
+  "org.ddahl rscala_2.10": null,
   "org.ddahl rscala_2.11": null,
   "org.ddecap rna-wxs-comparison_2.10": null,
   "org.decaf science*": "adamdecaf/science",
