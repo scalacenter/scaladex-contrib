@@ -12,6 +12,7 @@
   "org.scala-lang scala-reflect":                    "version",
   "org.scala-lang scala-xml":                        "version",
   "org.scala-lang scalap":                           "version",
+  "org.reactivestreams reactive-streams":            "pom",
   "amplab spark-indexedrdd":                         "pom",
   "me.leaf akka-persistence-android":                "pom",
   "io.gatling gatling-app":                          "pom",
