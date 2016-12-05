@@ -28,7 +28,7 @@ When you provide this list, your artifact will also show up as a scala artifact 
 ## Disambiguate Licenses
 
 In sbt, the `licenses` setting is defined as: [`val licenses = SettingKey[Seq[(String, URL)]]`](
-https://github.com/sbt/sbt/blob/1.0.x/main/src/main/scala/sbt/Keys.scala#L263). We observe that users 
+https://github.com/sbt/sbt/blob/v1.0.0-M4/main/src/main/scala/sbt/Keys.scala#L264). We observe that users 
 will publish a semantically identical license under different name/URL. See https://github.com/sbt/sbt/issues/1937 
 for more detail
 
