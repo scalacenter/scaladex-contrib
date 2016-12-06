@@ -599,6 +599,7 @@
   "com.meetup iap-api_2.11": null,
   "com.meetup iap-service_2.11": null,
   "com.meetup json-slim*": "meetup/json-slim",
+  "com.meetup json4s-java-time_2.11": null,
   "com.meetup oss-best-sbt-jar_2.11": null,
   "com.meetup scala-intacct-client_2.11": null,
   "com.meetup scala-logger_2.11": null,
