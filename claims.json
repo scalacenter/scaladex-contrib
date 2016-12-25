@@ -1524,6 +1524,8 @@
   "io.rdbc rdbc-scala_2.11": null,
   "io.rdbc rdbc-typeconv_2.11": null,
   "io.rdbc rdbc-typeconv_2.12": null,
+  "io.rdbc rdbc-util_2.11": null,
+  "io.rdbc rdbc-util_2.12": null,
   "io.rdbc.pgsql pgsql-akka-backend_2.11": null,
   "io.rdbc.pgsql pgsql-codec-scodec_2.11": null,
   "io.rdbc.pgsql pgsql-codec_2.11": null,
