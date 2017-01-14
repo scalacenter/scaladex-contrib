@@ -867,6 +867,7 @@
   "com.simpleenergy se-stream-xml_2.10": null,
   "com.smartelk fluent-translator*": "SmartElk/fluent-translator",
   "com.softwaremill akka-http-session*": "softwaremill/akka-http-session",
+  "com.softwaremill.clippy *": "softwaremill/scala-clippy",
   "com.softwaremill reactive-kafka*": "akka/reactive-kafka",
   "com.sorrentocorp scala-macros_2.11": null,
   "com.sorrentocorp streaming-json-parser_2.11": null,
