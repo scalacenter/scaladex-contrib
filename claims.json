@@ -2362,5 +2362,6 @@
   "yjs macros-play_2.11": null,
   "yjs scala-macro-example_2.11": null,
   "ypg-data sparrow": "ypg-data/sparrow",
-  "zamblauskas scala-csv-parser_*": "zamblauskas/scala-csv-parser"
+  "zamblauskas scala-csv-parser_*": "zamblauskas/scala-csv-parser",
+  "com.nrinaudo tabulate_*": "nrinaudo/kantan.csv"
 }
