@@ -266,6 +266,7 @@
   "com.dongxiguo zero-log*": "Atry/zero-log",
   "com.dongxiguo.zero-log *": "Atry/zero-log",
   "com.eclipsesource play-json-schema-validator*": "eclipsesource/play-json-schema-validator",
+  "com.egulias emailvalidator4scala_*": "egulias/EmailValidator4Scala",
   "com.eiipii etcdhttpclient_2.11": null,
   "com.elderresearch ssc_2.11": null,
   "com.elderresearch ssc_2.12.0-RC1": null,
