@@ -24,6 +24,7 @@
   "com.tradeshift ts-reaktive-testkit-assertj":      "java",
   "amplab spark-indexedrdd":                         "pom",
   "me.leaf akka-persistence-android":                "pom",
+  "com.typesafe config":                             "pom",
   "io.gatling gatling-app":                          "pom",
   "io.gatling gatling-charts":                       "pom",
   "io.gatling gatling-commons":                      "pom",
