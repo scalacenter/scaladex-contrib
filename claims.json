@@ -1616,6 +1616,7 @@
   "com.wire robotest_2.11": "scalacenter/scaladex-void",
   "com.wlangiewicz bitcoin4s_2.11": "scalacenter/scaladex-void",
   "com.wordnik.swagger swagger-scala_*": "swagger-api/swagger-scala",
+  "com.xebia cakemix_*": "xebia/cakemix",
   "com.xebia.studio lib-postgres_2.11": "scalacenter/scaladex-void",
   "com.xero xero-java-sdk_2.12": "scalacenter/scaladex-void",
   "com.yetu common-oauth2-resource*": "yetu/oauth2-resource-server",
