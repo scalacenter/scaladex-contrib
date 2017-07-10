@@ -36,5 +36,10 @@
   "io.gatling gatling-recorder":                     "pom",
   "io.gatling gatling-redis":                        "pom",
   "io.gatling gatling-test-framework":               "pom",
-  "io.gatling.highcharts gatling-charts-highcharts": "pom"
+  "io.gatling.highcharts gatling-charts-highcharts": "pom",
+  "org.sorm-framework sorm":                         "pom",
+  "com.github.mauricio postgresql-async_2.10":       "pom",
+  "com.github.mauricio postgresql-async_2.11":       "pom",
+  "com.github.mauricio postgresql-async_2.12":       "pom"
+
 }
