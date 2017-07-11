@@ -2504,6 +2504,7 @@
   "ms.webmaster macroserialization_2.13.0-M1": "scalacenter/scaladex-void",
   "name.de-vries sbt-tslint": "joost-de-vries/sbt-tslint",
   "name.de-vries sbt-typescript": "joost-de-vries/sbt-typescript",
+  "name.de-vries sbt-jasmine": "joost-de-vries/sbt-jasmine",
   "name.heikoseeberger sbt-groll": "scalacenter/scaladex-void",
   "name.heikoseeberger.groll groll": "scalacenter/scaladex-void",
   "name.heikoseeberger.sbt.groll sbt-groll": "scalacenter/scaladex-void",
