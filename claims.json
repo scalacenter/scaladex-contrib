@@ -2674,6 +2674,7 @@
   "org.apache.kudu kudu-spark_2.10": "scalacenter/scaladex-void",
   "org.apache.logging.log4j log4j-api-scala_2.10": "apache/logging-log4j2",
   "org.apache.logging.log4j log4j-api-scala_2.11": "apache/logging-log4j2",
+  "org.apache.logging.log4j log4j-api-scala_2.12": "apache/logging-log4j2",
   "org.apache.parquet parquet-scala_2.11": "scalacenter/scaladex-void",
   "org.apache.parquet parquet-scrooge_2.11": "scalacenter/scaladex-void",
   "org.apache.predictionio apache-predictionio-parent_2.10": "scalacenter/scaladex-void",
