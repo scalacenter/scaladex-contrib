@@ -118,7 +118,7 @@
   "ch.jodersky jni-library*": "jodersky/sbt-jni",
   "ch.jodersky sbt-jni": "jodersky/sbt-jni",
   "ch.jodersky sbt-jni-*": "jodersky/sbt-jni",
-  "ch.ninecode.cim CIMReader": "scalacenter/scaladex-void",
+  "ch.ninecode.cim CIMReader": "derrickoswald/CIMReader",
   "ch.unibas.cs.gravis scalismo*": "unibas-gravis/scalismo",
   "chainkite chk-commons-core_*": "chainkite/chk-commons",
   "chainkite chk-commons-test_*": "chainkite/chk-commons",
