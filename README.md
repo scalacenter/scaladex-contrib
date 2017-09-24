@@ -7,7 +7,7 @@ This repository exists to fill the gaps between the Scala Index and publicly ava
 When you publish your project with a `source code management` tag ([`scm`](http://maven.apache.org/scm/git.html)) 
 which points to a github repository, we can fetch additional information. If you forgot to add the `scm` tag, 
 edit [claims.json](claims.json) and create a pull request to claim a project. If your project is not on the list, 
-you will need to publish it on Maven Central or Bintray first. See [publish-central](https://github.com/scalacenter/scaladex/blob/master/doc/user/publish-central.md) to learn 
+you will need to publish it on Maven Central or Bintray first. See [publish-maven-central](https://github.com/scalacenter/scaladex/blob/master/doc/user/publish-maven-central.md) and [publish-bintray](https://github.com/scalacenter/scaladex/blob/master/doc/user/publish-bintray.md) to learn 
 more about publishing.
 
 ## Index artifacts which are published in java-style
