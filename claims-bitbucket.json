@@ -74,12 +74,10 @@
   "io.atlassian.aws-scala aws-scala-swf_2.11": null,
   "io.atlassian.aws-scala aws-scala_2.10": null,
   "io.atlassian.aws-scala aws-scala_2.11": null,
-
   "com.geeoz.atom atom*": "geeoz/atom",
   "com.geeoz.pawl pawl*": "geeoz/pawl",
-  
-
-
-
-
+  "com.googlecode.kiama *": "inkytonik/kiama",
+  "com.googlecode.sbt-rats sbt-rats": "inkytonik/sbt-rats"
 }
+
+"scalacenter/scaladex-not-found"
