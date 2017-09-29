@@ -607,7 +607,7 @@
   "com.jamesneve database-cleaner": "scalacenter/scaladex-void",
   "com.jamesward play-auto-refresh": "scalacenter/scaladex-void",
   "com.jamesward sbt-atom": "jamesward/sbt-atom",
-  "com.jamesward sbt-force": "sbt-force",
+  "com.jamesward sbt-force": "jamesward/sbt-force",
   "com.jamesward scheroku*": "jamesward/scheroku",
   "com.jasperdenkers play-auth*": "scalacenter/scaladex-void",
   "com.jasperdenkers play-utils*": "scalacenter/scaladex-void",
