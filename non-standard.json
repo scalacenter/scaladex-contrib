@@ -25,6 +25,7 @@
   "amplab spark-indexedrdd":                         "pom",
   "me.leaf akka-persistence-android":                "pom",
   "io.gatling gatling-app":                          "pom",
+  "io.gatling gatling-bundle":                       "pom",
   "io.gatling gatling-charts":                       "pom",
   "io.gatling gatling-commons":                      "pom",
   "io.gatling gatling-compiler":                     "pom",
@@ -33,6 +34,7 @@
   "io.gatling gatling-jdbc":                         "pom",
   "io.gatling gatling-jms":                          "pom",
   "io.gatling gatling-metrics":                      "pom",
+  "io.gatling gatling-parent":                       "pom",
   "io.gatling gatling-recorder":                     "pom",
   "io.gatling gatling-redis":                        "pom",
   "io.gatling gatling-test-framework":               "pom",
@@ -41,5 +43,4 @@
   "com.github.mauricio postgresql-async_2.10":       "pom",
   "com.github.mauricio postgresql-async_2.11":       "pom",
   "com.github.mauricio postgresql-async_2.12":       "pom"
-
 }
