@@ -798,7 +798,7 @@
   "com.peoplepattern lemkit-train*": "scalacenter/scaladex-void",
   "com.peoplepattern lib-text*": "peoplepattern/lib-text",
   "com.pepegar hammock-*": "pepegar/hammock",
-  "com.pepegar hammock*": "scalacenter/scaladex-void",
+  "com.pepegar hammock*": "pepegar/hammock",
   "com.philipsoutham scala-fnv*": "philipsoutham/scala-fnv",
   "com.plasmaconduit algebro*": "plasmaconduit/algebro",
   "com.plasmaconduit consul-kv*": "plasmaconduit/consul-kv",
