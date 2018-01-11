@@ -78,6 +78,7 @@
   "build.unstable tylog-macros*": "scalacenter/scaladex-void",
   "build.unstable tylog*": "scalacenter/scaladex-void",
   "ca.marvelmathew gcm-scala_*": "marvelm/gcm-scala",
+  "cc.drx *": "drxcc/drx",
   "cc.p2k centrality_*": "webgeist/Centrality",
   "cc.p2k spark-centrality*": "scalacenter/scaladex-void",
   "cc.p2k yahoo-finance_*": "webgeist/yahoo-finance",
