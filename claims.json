@@ -197,6 +197,7 @@
   "com.calvin.experiments *": "scalacenter/scaladex-not-found",
   "com.catamorphic mustache*": "catamorphic/scala-mustache",
   "com.catamorphic playz*": "catamorphic/playz",
+  "com.carrotgarden.maven scalor-maven-plugin*": "random-maven/scalor-maven-plugin",
   "com.cavorite sbt-avro*": "sbt/sbt-avro",
   "com.ccadllc.cedi circuitbreaker*": "ccadllc/cedi-circuitbreakers",
   "com.ccadllc.cedi config*": "ccadllc/cedi-config",
