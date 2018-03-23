@@ -257,6 +257,8 @@
   "com.dispalt.pop sbt-pop": "dispalt/sbt-pop",
   "com.dohque plainjdbc*": "dohque/plainjdbc",
   "com.dongxiguo zero-log*": "Atry/zero-log",
+  "com.drivetribe orchestra*": "drivetribe/orchestra",
+  "com.drivetribe circe-field-hints*": "drivetribe/circe-field-hints",
   "com.drobisch docker4s*": "scalacenter/scaladex-not-found",
   "com.dscleaver.sbt sbt-quickfix": "dscleaver/sbt-quickfix",
   "com.dslplatform sbt-dsl-platform": "dsl-platform/sbt-dsl",
