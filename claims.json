@@ -2134,6 +2134,7 @@
   "org.duhemm plugin_*": "Duhemm/parsermacros",
   "org.ensime sbt-ensime": "ensime/ensime-sbt",
   "org.flywaydb flyway-play_*": "flyway/flyway-play",
+  "org.foundweekends sbt-bintray": "sbt/sbt-bintray",
   "org.foundweekends.conscript sbt-conscript": "scalacenter/scaladex-void",
   "org.foundweekends.giter8 sbt-giter8": "scalacenter/scaladex-void",
   "org.foundweekends.giter8 sbt-giter8-scaffold": "scalacenter/scaladex-void",
