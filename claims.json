@@ -532,6 +532,8 @@
   "com.googlecode.mapperdao mapperdao_*": "kostaskougios/mapperdao",
   "com.googlecode.sbt-rats sbt-rats": "scalacenter/scaladex-not-found",
   "com.googlecode.scalascriptengine scalascriptengine_*": "kostaskougios/scalascriptengine",
+  "com.goyeau kubernetes-client*": "joan38/kubernetes-client",
+  "com.goyeau kafka-streams-circe*": "joan38/kafka-streams-circe",
   "com.gregghz json-macro*": "gregghz/json-macro",
   "com.gu abacus-models*": "guardian/grid",
   "com.gu commercial-shared*": "guardian/grid",
