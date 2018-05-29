@@ -534,6 +534,7 @@
   "com.googlecode.scalascriptengine scalascriptengine_*": "kostaskougios/scalascriptengine",
   "com.goyeau kubernetes-client*": "joan38/kubernetes-client",
   "com.goyeau kafka-streams-circe*": "joan38/kafka-streams-circe",
+  "com.goyeau orchestra*": "OrchestraCD/orchestra",
   "com.gregghz json-macro*": "gregghz/json-macro",
   "com.gu abacus-models*": "guardian/grid",
   "com.gu commercial-shared*": "guardian/grid",
