@@ -2028,6 +2028,7 @@
   "org.apache.beam beam-runners-flink_*-examples": "scalacenter/scaladex-void",
   "org.apache.beam beam-runners-flink*": "scalacenter/scaladex-void",
   "org.apache.beam beam-runners-flink*-examples": "scalacenter/scaladex-void",
+  "org.apache.daffodil *": "scalacenter/scaladex-void",
   "org.apache.distributedlog distributedlog*": "scalacenter/scaladex-void",
   "org.apache.ignite ignite-scalar*": "scalacenter/scaladex-void",
   "org.apache.ignite ignite-spark*": "scalacenter/scaladex-void",
