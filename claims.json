@@ -2067,7 +2067,7 @@
   "org.bitbucket.inkytonik.dsprofile dsprofile*": "scalacenter/scaladex-void",
   "org.bitbucket.inkytonik.kiama kiama*": "scalacenter/scaladex-void",
   "org.bitbucket.inkytonik.kiama kiama*.0-RC2": "scalacenter/scaladex-void",
-  "org.bitbucket.inkytonik.sbt-rats sbt-rats": "scalacenter/scaladex-void",
+  "org.bitbucket.inkytonik.sbt-rats sbt-rats": "inkytonik/sbt-rats",
   "org.bitbucket.pshirshov akka-cdi*": "scalacenter/scaladex-void",
   "org.bitbucket.pshirshov app-skeleton*": "scalacenter/scaladex-void",
   "org.bitbucket.pshirshov cassandra*": "scalacenter/scaladex-void",
