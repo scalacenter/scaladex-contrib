@@ -606,7 +606,7 @@
   "com.impactua redis-scala*": "scalacenter/scaladex-void",
   "com.innoq leanpub-client*": "scalacenter/scaladex-void",
   "com.instructure spark-csv*": "scalacenter/scaladex-void",
-  "com.iravid play-json-cats*": "scalacenter/scaladex-void",
+  "com.iravid play-json-cats*": "iravid/play-json-cats",
   "com.ithaca libra*": "scalacenter/scaladex-void",
   "com.izmeron planner_*": "haghard/planner",
   "com.jamesneve christmas": "scalacenter/scaladex-void",
