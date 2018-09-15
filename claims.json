@@ -2145,6 +2145,7 @@
   "org.github.mansur.scalastyle gradle-scalastyle-plugin*": "scalacenter/scaladex-void",
   "org.github.ngbinh.scalastyle gradle-scalastyle-plugin*": "ngbinh/gradle-scalastyle-plugin",
   "org.h3nk3 sbt-ortho": "henrikengstrom/sbt-ortho",
+  "org.hammerlab sbt-dependency-graph": "hammerlab/sbt-dependency-graph",
   "org.homermultitext hmt-textmodel*": "scalacenter/scaladex-void",
   "org.homermultitext hmt_textmodel*": "scalacenter/scaladex-void",
   "org.http4s jawn-fs2*": "scalacenter/scaladex-void",
