@@ -2007,6 +2007,7 @@
   "nl.typeset sonofjson_*": "wspringer/sonofjson",
   "no.arktekk uri-template*": "scalacenter/scaladex-void",
   "nz.co.rossphillips scala-thumbnailer*": "scalacenter/scaladex-void",
+  "ocaps ocaps*": "wsargent/ocaps",
   "octalmind mqtt-codec*": "guillaumebreton/mqtt-codec",
   "octalmind play-json-support*": "guillaumebreton/play-json-support",
   "oescript_core oescript*": "navicore/OeScript",
