@@ -1974,6 +1974,7 @@
   "net.ursussoft mapz-markers*": "scalacenter/scaladex-void",
   "net.virtual-void sbt-dependency-graph": "jrudolph/sbt-dependency-graph",
   "net.vectos formulation-*": "vectos/formulation",
+  "net.vonbuchholtz sbt-dependency-check": "albuch/sbt-dependency-check",
   "net.walend graph4scalasemirings_*": "dwalend/Disentangle",
   "net.walend scalagraphminimizer*": "scalacenter/scaladex-void",
   "net.xngns atomic*": "scalacenter/scaladex-void",
