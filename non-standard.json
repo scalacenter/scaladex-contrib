@@ -43,5 +43,7 @@
   "org.sorm-framework sorm":                         "pom",
   "com.github.mauricio postgresql-async_2.10":       "pom",
   "com.github.mauricio postgresql-async_2.11":       "pom",
-  "com.github.mauricio postgresql-async_2.12":       "pom"
+  "com.github.mauricio postgresql-async_2.12":       "pom",
+  "org.tinylog tinylog-api-scala":                   "pom",
+  "org.tinylog tinylog-impl":                        "java"
 }
