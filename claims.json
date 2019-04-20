@@ -355,6 +355,7 @@
   "com.github.cuzfrog excela*": "cuzfrog/excela",
   "com.github.cuzfrog maila*": "cuzfrog/maila",
   "com.github.cuzfrog sormc*": "cuzfrog/sormc",
+  "com.github.daniel-shuy sbt-scripted-scalatest": "daniel-shuy/scripted-scalatest-sbt-plugin",
   "com.github.dannywe honeypot*": "scalacenter/scaladex-not-found",
   "com.github.davidkellis acceptparser*": "scalacenter/scaladex-not-found",
   "com.github.davidkellis query*": "davidkellis/query",
