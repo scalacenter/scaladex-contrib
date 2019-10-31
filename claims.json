@@ -1670,7 +1670,7 @@
   "io.ipsq 2048-scalajs-facade*": "ipsq/2048-scalajs-facade",
   "io.jenner sbt-jenner": "scalacenter/scaladex-void",
   "io.john-ky hashids-scala*": "scalacenter/scaladex-void",
-  "io.kevinlee sbt-devoops": "Kevin-Lee/sbt-devoops",
+  "io.kevinlee sbt-devoops": "kevin-lee/sbt-devoops",
   "io.linkki linkki*": "scalacenter/scaladex-void",
   "io.megam libcommon_*": "megamsys/megam_common",
   "io.megam newman_*": "megamsys/newman",
