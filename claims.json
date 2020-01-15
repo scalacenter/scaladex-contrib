@@ -2599,5 +2599,6 @@
   "yjs macros-play*": "scalacenter/scaladex-void",
   "yjs scala-macro-example*": "scalacenter/scaladex-void",
   "ypg-data sparrow": "ypg-data/sparrow",
-  "zamblauskas scala-csv-parser_*": "zamblauskas/scala-csv-parser"
+  "zamblauskas scala-csv-parser_*": "zamblauskas/scala-csv-parser",
+  "null-vector akka-reactivemongo-plugin*": "null-vector/akka-reactivemongo-plugin"
 }
