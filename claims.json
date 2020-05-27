@@ -941,6 +941,7 @@
   "com.teambytes.sbt sbt-dynamodb": "scalacenter/scaladex-void",
   "com.ted.tools scala-memoization*": "scalacenter/scaladex-void",
   "com.tersesystems play20-rememberme*": "scalacenter/scaladex-void",
+  "com.tersesystems.blindsight blindsight*": "tersesystems/blindsight",
   "com.thangiee freasy-monad*": "scalacenter/scaladex-void",
   "com.thangiee metadroid*": "scalacenter/scaladex-void",
   "com.thatscalaguy play-pjax*": "scalacenter/scaladex-void",
