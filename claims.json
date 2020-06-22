@@ -1672,6 +1672,7 @@
   "io.jenner sbt-jenner": "scalacenter/scaladex-void",
   "io.john-ky hashids-scala*": "scalacenter/scaladex-void",
   "io.kevinlee sbt-devoops": "kevin-lee/sbt-devoops",
+  "io.kevinlee sbt-github-pages": "kevin-lee/sbt-github-pages",
   "io.linkki linkki*": "scalacenter/scaladex-void",
   "io.megam libcommon_*": "megamsys/megam_common",
   "io.megam newman_*": "megamsys/newman",
