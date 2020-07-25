@@ -342,6 +342,7 @@
   "com.github.akileev akka-serial-io_*": "akileev/akka-serial-io",
   "com.github.alexarchambault sbt-notebook": "alexarchambault/sbt-notebook",
   "com.github.alixba vast_*": "AlixBa/vast",
+  "com.github.andriimartynov sbt-terser": "andriimartynov/sbt-terser",
   "com.github.andyglow scalax-xml-diff_*": "andyglow/scala-xml-diff",
   "com.github.bolthelmet mockito-sugar-rush*": "Bolthelmet/mockito-sugar-rush",
   "com.github.bootlog bootlog": "scalacenter/scaladex-not-found",
