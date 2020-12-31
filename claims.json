@@ -2048,6 +2048,7 @@
   "ninja.bulletproof delta*": "scalacenter/scaladex-void",
   "ninja.bulletproof scuff*": "scalacenter/scaladex-void",
   "nl.anchormen.sbt sbt-build-environments": "scalacenter/scaladex-void",
+  "nl.codestar sbt-azure-functions*": "scalacenter/scaladex-void",
   "nl.codestar sbt-findsecbugs": "scalacenter/scaladex-void",
   "nl.mdj itinere*": "Fristi/itinere",
   "nl.mdj wowapi-scala-client*": "scalacenter/scaladex-void",
