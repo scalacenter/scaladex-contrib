@@ -31,12 +31,3 @@ For example,
 ```
 "com.typesafe config": "java"
 ```
-
-## Disambiguate Licenses
-
-In sbt, the `licenses` setting is defined as: [`val licenses = SettingKey[Seq[(String, URL)]]`](
-https://github.com/sbt/sbt/blob/v1.0.0-M4/main/src/main/scala/sbt/Keys.scala#L264). We observe that users 
-will publish a semantically identical license under different name/URL. See https://github.com/sbt/sbt/issues/1937 
-for more detail
-
-We disambiguate license [by name](licensesByName.json).
