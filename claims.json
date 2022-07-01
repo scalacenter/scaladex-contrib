@@ -1708,6 +1708,8 @@
   "io.github.yzernik bitcoin-scodec*": "yzernik/bitcoin-scodec",
   "io.github.yzernik btc-io*": "yzernik/btc-io",
   "io.github.yzernik reactive-bitcoin-node*": "yzernik/reactive-bitcoin-node",
+  "io.github.hagay3 skuber-examples*": "scalacenter/scaladex-void",
+  "io.github.hagay3 skuber*": "scalacenter/scaladex-void",
   "io.grhodes hadoop-aws*": "scalacenter/scaladex-void",
   "io.grhodes jetty-http2-apns*": "scalacenter/scaladex-void",
   "io.grhodes scalyr-logback*": "scalacenter/scaladex-void",
