@@ -179,6 +179,7 @@
   "com.benmccann play-plovr-plugin": "benmccann/play-plovr-plugin",
   "com.bicou play-json-option-option*": "bicouy0/play-json-option-option",
   "com.bicou.sbt sbt-hbs": "bicouy0/sbt-hbs",
+  "com.bigelectrons.joesan csv-parser_*": "joesan/csv-parser",
   "com.biosimilarity.lift specialk*": "leithaus/SpecialK",
   "com.blackboxsociety blackbox-core_*": "blackboxsociety/blackbox-core",
   "com.blackboxsociety blackbox-http_*": "blackboxsociety/blackbox-http",
