@@ -86,7 +86,7 @@
   "cc.spray sbt-twirl": "spray/twirl",
   "ccp.mts.examples mts-basic-client*": "scalacenter/scaladex-void",
   "ch.epfl.scala sbt-release": "scalacenter/release-manager",
-  "ch.epfl.scala sbt-scalafix": "scalacenter/scalafix",
+  "ch.epfl.scala sbt-scalafix": "scalacenter/sbt-scalafix",
   "ch.epfl.scala sbt-scalajs-bundler": "scalacenter/scalajs-bundler",
   "ch.epfl.scala sbt-web-scalajs-bundler": "scalacenter/scalajs-bundler",
   "ch.epfl.scala.index sbt-scaladex": "scalacenter/scaladex",
