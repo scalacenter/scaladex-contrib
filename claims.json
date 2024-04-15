@@ -1676,6 +1676,7 @@
   "io.github.jeremyrsmith literal-types*": "scalacenter/scaladex-void",
   "io.github.jeremyrsmith sbt-csd-packager": "scalacenter/scaladex-void",
   "io.github.jeremyrsmith scalamock-scalatest-support*": "scalacenter/scaladex-void",
+  "io.github.kacperfkorban guinep*": "KacperFKorban/GUInep",
   "io.github.lhotari akka-http-health*": "scalacenter/scaladex-void",
   "io.github.marad swt-builder_*": "marad/scala-swt-builder",
   "io.github.morgaroth navigator-import-core_*": "Morgaroth/navigator-import-core",
