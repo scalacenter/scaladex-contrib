@@ -341,6 +341,7 @@
   "com.github.ahjohannessen akka-etcd*": "ahjohannessen/akka-etcd",
   "com.github.akileev akka-serial-io_*": "akileev/akka-serial-io",
   "com.github.alexarchambault sbt-notebook": "alexarchambault/sbt-notebook",
+  "com.github.algebrazebra slick-duckdb_*": "algebrazebra/slick-duckdb",
   "com.github.alixba vast_*": "AlixBa/vast",
   "com.github.andyglow scalax-xml-diff_*": "andyglow/scala-xml-diff",
   "com.github.bolthelmet mockito-sugar-rush*": "Bolthelmet/mockito-sugar-rush",
